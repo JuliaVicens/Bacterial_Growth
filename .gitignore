@@ -1,0 +1,9 @@
+*.pkl
+*.csv
+*csv.bkup
+*.pyc
+*.pdf
+*.png
+*.zip
+Figuras
+!Figuras/311/Architecture.png
