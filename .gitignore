@@ -2,8 +2,8 @@
 *.csv
 *csv.bkup
 *.pyc
-*.pdf
-*.png
+# *.pdf
+# *.png
 *.zip
 *.tsv
 Figuras
