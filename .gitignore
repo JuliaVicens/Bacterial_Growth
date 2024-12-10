@@ -6,7 +6,7 @@
 # *.png
 *.zip
 *.tsv
-Figuras
+# Figuras
 Utilities
 NoCode
 !Figuras/311/Architecture.png
