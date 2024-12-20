@@ -7,7 +7,7 @@
    id="svg2305"
    sodipodi:docname="Result_symb.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
-   inkscape:export-filename="Result_symb.png"
+   inkscape:export-filename="Result_symb.pdf"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -30,14 +30,14 @@
      inkscape:document-units="pt"
      showgrid="false"
      inkscape:zoom="1.5760805"
-     inkscape:cx="295.35293"
-     inkscape:cy="-67.255448"
+     inkscape:cx="243.32513"
+     inkscape:cy="-65.986477"
      inkscape:window-width="1918"
      inkscape:window-height="2054"
-     inkscape:window-x="-10"
+     inkscape:window-x="1910"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="figure_1" />
+     inkscape:current-layer="g1617" />
   <metadata
      id="metadata1978">
     <rdf:RDF>
@@ -301,7 +301,7 @@
        x2="331.58957"
        y2="193.46852"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,-1,68.390958,212.57875)"
+       gradientTransform="matrix(-1,0,0,1,731.47604,10.49125)"
        spreadMethod="pad"
        id="linearGradient1707">
       <stop
@@ -1193,7 +1193,8 @@
            style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path1615" />
         <g
-           id="g1617">
+           id="g1617"
+           transform="rotate(180,343.3085,111.637)">
           <path
              d="m 340.332,22.344 h 5.953 V 200.93 h -5.953 z"
              style="fill:url(#linearGradient1627);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1327,7 +1328,7 @@
         <g
            id="g1697">
           <path
-             d="m 396.957,22.242 h 5.953 v 178.586 h -5.953 z"
+             d="m 402.91,200.828 h -5.953 V 22.242 h 5.953 z"
              style="fill:url(#linearGradient1707);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="path1709" />
         </g>
@@ -1381,7 +1382,8 @@
            style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path1737" />
         <g
-           id="g1739">
+           id="g1739"
+           transform="rotate(180,371.3825,111.637)">
           <path
              d="m 368.406,22.344 h 5.953 V 200.93 h -5.953 z"
              style="fill:url(#linearGradient1749);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"

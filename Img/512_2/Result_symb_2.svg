@@ -30,14 +30,14 @@
      inkscape:document-units="pt"
      showgrid="false"
      inkscape:zoom="1.1144572"
-     inkscape:cx="142.2217"
-     inkscape:cy="-169.58928"
+     inkscape:cx="105.43249"
+     inkscape:cy="-169.58929"
      inkscape:window-width="1918"
      inkscape:window-height="2054"
-     inkscape:window-x="-10"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="axes_1" />
+     inkscape:current-layer="g1645" />
   <metadata
      id="metadata32608">
     <rdf:RDF>
@@ -1037,7 +1037,8 @@
          id="path1695" />
       <g
          id="g1697"
-         style="stroke-linecap:butt;stroke-linejoin:round">
+         style="stroke-linecap:butt;stroke-linejoin:round"
+         transform="rotate(180,399.9335,111.535)">
         <path
            d="m 396.957,22.242 h 5.953 v 178.586 h -5.953 z"
            style="fill:url(#linearGradient1707);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1099,7 +1100,8 @@
          id="path1737" />
       <g
          id="g1739"
-         style="stroke-linecap:butt;stroke-linejoin:round">
+         style="stroke-linecap:butt;stroke-linejoin:round"
+         transform="rotate(180,371.3825,111.637)">
         <path
            d="m 368.406,22.344 h 5.953 V 200.93 h -5.953 z"
            style="fill:url(#linearGradient1749);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
