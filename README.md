@@ -22,7 +22,11 @@
 - **PINNs (Physics-Informed Neural Networks):** Two coupled neural networks are trained, one predicting the bacterial density at each moment and the other its time derivative.  
 - **Symbolic regression:** A process to discover mathematical expressions describing the system's temporal evolution, generating interpretable models.
 
-![Esquema del Proyecto / Project Diagram](Img/dibujo.png)  
+<div style="background-color: white; padding: 10px;">
+    <img src="Img/dibujo.png" alt="Esquema del Proyecto / Project Diagram">
+</div>
+
+<!-- ![Esquema del Proyecto / Project Diagram](Img/dibujo.png)   -->
 *ES: Figura 1: Representación del flujo del sistema, desde la recopilación de datos hasta la obtención de fórmulas analíticas.*  
 *EN: Figure 1: System flow representation, from data collection to obtaining analytical formulas.*
 
@@ -61,7 +65,7 @@ Los datos se encuentran en la carpeta / The data can be found in the folder `Dat
 **ES:** A continuación, mostramos un ejemplo de las predicciones obtenidas y la comparación con los datos experimentales:  
 **EN:** Below, we present an example of the predictions obtained and their comparison with experimental data:
 
-![Curva de Crecimiento / Growth Curve](Img/312/panel.png)  
+![Curva de Crecimiento / Growth Curve](Img/312/panel.pdf)  
 **Aprendizaje de la dinámica del sistema con datos sintéticos / Learning system dynamics with synthetic data**  
 
 - **A)** Arquitectura empleada durante el aprendizaje, con dos redes neuronales acopladas: $NN_u$ y $NN_\phi$.  
